@@ -48,3 +48,19 @@ Ensure your firewall allows traffic to port 3000 if accessing from another devic
 The server automatically serves the static site from the public folder.
 
 The image uses Node.js 20 with Express.
+---
+
+## 📌 Conclusion
+
+This Dockerized Node.js server provides a simple and efficient way to host static sites locally or in a containerized environment.  
+
+Feel free to pull the image from Docker Hub, explore the code, and adapt it for your own projects. Contributions, suggestions, and feedback are always welcome!  
+
+---
+
+## 🔗 References
+
+- Docker Hub: [aryanguptax/dockerserver](https://hub.docker.com/r/aryanguptax/dockerserver)  
+- Node.js: [https://nodejs.org/](https://nodejs.org/)  
+- Express: [https://expressjs.com/](https://expressjs.com/)
+

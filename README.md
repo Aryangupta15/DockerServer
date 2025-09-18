@@ -16,3 +16,9 @@ Ready-to-run Docker image on Docker Hub: aryanguptax/dockerserver:latest.
 
 <ins>Docker</ins> installed on your machine.
 
+## ⚡ Quick Start
+
+### 1. Pull the Docker image
+```
+docker pull aryanguptax/dockerserver:latest
+```

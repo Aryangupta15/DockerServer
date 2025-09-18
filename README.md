@@ -67,4 +67,4 @@ Feel free to pull the image from Docker Hub, explore the code, and adapt it for 
 
 ## 🌐 Preview
 
-![DockerServer Preview](/preview.png)
+![DockerServer Preview](/dockerserver.png)

@@ -14,7 +14,7 @@ Ready-to-run Docker image on Docker Hub.
 
 # 📦 Requirements
 
-<ins>[Docker](https://www.docker.com/)</ins> installed on your machine.
+[Docker](https://www.docker.com/) installed on your machine.
 
 ## ⚡ Quick Start
 

@@ -14,12 +14,12 @@ Ready-to-run Docker image on Docker Hub.
 
 # 📦 Requirements
 
-<ins>Docker</ins> installed on your machine.
+<ins>[Docker](https://www.docker.com/)</ins> installed on your machine.
 
 ## ⚡ Quick Start
 
 ### 1. Pull the Docker image
-Docker image on Docker Hub: [aryanguptax/dockerserver](https://hub.docker.com/r/aryanguptax/dockerserver)
+Docker image on Docker Hub: 
 ```
 docker pull aryanguptax/dockerserver:latest
 ```

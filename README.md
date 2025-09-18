@@ -65,3 +65,6 @@ Feel free to pull the image from Docker Hub, explore the code, and adapt it for 
 - Node.js: [https://nodejs.org/](https://nodejs.org/)  
 - Express: [https://expressjs.com/](https://expressjs.com/)
 
+## 🌐 Preview
+
+![DockerServer Preview](/preview.png)

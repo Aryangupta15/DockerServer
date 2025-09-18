@@ -31,3 +31,12 @@ docker run -p 3000:3000 aryanguptax/dockerserver:latest
 Maps port 3000 inside the container to port 3000 on your machine.
 
 Access the site at: http://localhost:3000
+
+### 3. To stop running container
+```
+docker ps
+```
+This will displays details of all the container, with name and id.
+```
+docker stop <container_id_or_name>
+```

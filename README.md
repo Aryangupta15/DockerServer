@@ -10,7 +10,7 @@ Serves static files from the public directory.
 
 ES modules support using import syntax.
 
-Ready-to-run Docker image on Docker Hub: aryanguptax/dockerserver:latest.
+Ready-to-run Docker image on Docker Hub.
 
 # 📦 Requirements
 

@@ -40,3 +40,10 @@ This will displays details of all the container, with name and id.
 ```
 docker stop <container_id_or_name>
 ```
+## 📝 Notes
+
+Ensure your firewall allows traffic to port 3000 if accessing from another device.
+
+The server automatically serves the static site from the public folder.
+
+The image uses Node.js 20 with Express.
